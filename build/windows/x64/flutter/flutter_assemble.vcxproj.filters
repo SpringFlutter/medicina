@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SAITEL\Medicina\frontmedicina\build\windows\x64\CMakeFiles\02f7a0d44368bf8d0207990a06658e46\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\SAITEL\Medicina\frontmedicina\build\windows\x64\CMakeFiles\97bfb29a798ded95acfc279edfcf7d07\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\SAITEL\Medicina\frontmedicina\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\SAITEL\Medicina\frontmedicina\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0C1CB715-AFB9-30F9-9C43-0CF04C05FBB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

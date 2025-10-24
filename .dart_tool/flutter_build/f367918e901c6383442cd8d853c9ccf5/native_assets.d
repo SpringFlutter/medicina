@@ -1,0 +1,1 @@
+ C:\\Users\\SAITEL\\Medicina\\frontmedicina\\.dart_tool\\flutter_build\\f367918e901c6383442cd8d853c9ccf5\\native_assets.yaml: 

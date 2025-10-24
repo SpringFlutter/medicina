@@ -1,0 +1,10 @@
+^C:\USERS\SAITEL\MEDICINA\FRONTMEDICINA\BUILD\WINDOWS\X64\CMAKEFILES\558FAE9B09127F2C6624D0A3B4D8D1C2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
