@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 }
 
 class Administrador extends StatefulWidget {
-  @override
+  @override 
   _AdministradorState createState() => _AdministradorState();
 }
 
